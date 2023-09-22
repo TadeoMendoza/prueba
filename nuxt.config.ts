@@ -6,7 +6,7 @@ export default defineNuxtConfig({
 	app: {
 		baseURL: '/v2/',
 	},
-	ssr: false,
+	// ssr: false,
 	build: {
 		publicPath: '/v2/',
 		// buildDir: 'dist',

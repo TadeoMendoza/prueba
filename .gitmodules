@@ -1,3 +1,6 @@
 [submodule "prueba-submodulo"]
     path = pages/prueba-submodulo
     url = https://github.com/TadeoMendoza/portalPrueba
+[submodule "pages/prueba-submodulo"]
+	path = pages/prueba-submodulo
+	url = https://github.com/TadeoMendoza/portalPrueba

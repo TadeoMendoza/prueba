@@ -1,0 +1,3 @@
+[submodule "prueba-submodulo"]
+    path = prueba-submodulo
+    url = https://github.com/TadeoMendoza/portalPrueba
